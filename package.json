@@ -1,0 +1,22 @@
+{
+  "name": "clase09",
+  "version": "1.0.0",
+  "description": "JWT, BCRYPT, EXPRESS-JWT, JSONWEBTOKEN, BACKPACK-CORE, VALIDATOR",
+  "main": "index.js",
+  "author": "sarten",
+  "license": "MIT",
+  "scripts": {
+    "dev": "backpack"
+  },
+  "dependencies": {
+    "backpack-core": "^0.8.2",
+    "bcrypt": "^3.0.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-jwt": "^5.3.1",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.3.13",
+    "uuid": "^3.3.2",
+    "validator": "^10.9.0"
+  }
+}
